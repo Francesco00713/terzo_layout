@@ -1,0 +1,19 @@
+.layout .section{
+    display: flex;
+    flex-direction: column;
+    background-color: green;
+    min-height: 100vh;
+}
+
+.layout .header {
+    background-color: yellow;
+}
+
+.layout .main{
+    background-color: red;
+    flex-grow: 1;
+}
+
+.layout .footer{
+    background-color: blue;
+}
