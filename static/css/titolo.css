@@ -1,0 +1,13 @@
+.titolo {
+    color: #fff;
+    line-height: 1;
+    border-top: 3px solid #343434;
+    border-bottom: 3px solid #343434;
+
+}
+.titolo h2{
+    text-align: center;
+    font-weight: bold;
+    font-size: 80px;
+    margin: 20px;
+}

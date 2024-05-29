@@ -1,0 +1,21 @@
+.botton a:link,
+.botton a:hover,
+.botton a:visited,
+.botton a:active{
+    text-decoration: none;
+}
+
+.button{
+    border-top: 3px solid #FFF;
+    padding-top: 45px;
+}
+
+.button a{
+    font-weight: bold;
+    font-size: 30px;
+    color: #080C71; 
+    background-color: #fff;
+    line-height: 50px;
+    border-radius: 15px;
+    padding: 15px 125px 11px 125px;
+}
