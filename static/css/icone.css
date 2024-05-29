@@ -1,4 +1,4 @@
-.loghi{
+.icone{
     display: flex;
     flex-direction: row;
     justify-content: flex-end;
@@ -6,6 +6,7 @@
     padding: 35px;
 }
 
-.loghi img{
+.icone img{
     padding-left: 65px;
+    margin-bottom: 30px;
 }
